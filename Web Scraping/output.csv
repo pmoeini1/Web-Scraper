@@ -1,208 +1,206 @@
 Rank,Country,Total Consumption (GWh/yr)
-1,China,7500000
-2,United States,3989566
-3,India,1547000
-4,Russia,965156
-5,Japan,902842
-6,Brazil,597234
-7,Canada,549263
-8,"Korea, South",527035
-9,Germany,524268
-10,France,449422
-11,Saudi Arabia,322372
-12,United Kingdom,300520
-13,Italy,297150
-14,Mexico,267910
-15,Taiwan,237557
-16,Spain,241563
-17,Australia,241020
-18,Indonesia,263139
-19,Iran,254724
-20,Vietnam,216994
-21,South Africa,210304
-22,Turkey,251376
-23,Thailand,185852
-24,Egypt,150579
-25,Ukraine,128806
-26,Poland,152573
-27,Malaysia,147209
-28,Sweden,131798
-29,Norway,124127
-30,Argentina,125030
-31,Netherlands,110682
-32,United Arab Emirates,119455
-33,Philippines,93354
-34,Kazakhstan,91668
-35,Pakistan,90000
-36,Finland,84207
-37,Belgium,82051
-38,Venezuela,64660
-39,Austria,66849
-40,Chile,74992
-41,Czech Republic,63920
-42,Colombia,70203
-43,Israel,56391
-44,Switzerland,56353
-45,Bangladesh,70594
-46,Kuwait,59278
-47,Greece,53635
-48,Algeria,62062
-49,Romania,55008
-50,Uzbekistan,49204
-51,Singapore,47583
-52,Portugal,48035
-53,Hong Kong,44730
-54,Iraq,43971
-55,New Zealand,41165
-56,Hungary,41621
-57,Peru,47409
-58,Qatar,43375
-59,Belarus,32736
-60,Denmark,32703
-61,Bulgaria,33134
-62,Morocco,29678
-63,Slovakia,26237
-64,Serbia,30292
-65,Bahrain,27447
-66,Ireland,27203
-67,Oman,31766
-68,Nigeria,29011
-69,Ecuador,24605
-70,Azerbaijan,20286
-71,Puerto Rico,15466
-72,Iceland,18679
-73,Syria,14263
-74,Croatia,17475
-75,Jordan,17384
-76,Lebanon,17708
-77,Dominican Republic,16067
-78,Tunisia,15838
-79,Cuba,16341
-80,"Korea, North",12708
-81,Slovenia,14023
-82,Turkmenistan,15090
-83,Tajikistan,16085
-84,Mozambique,13390
-85,Kyrgyzstan,11740
-86,Sri Lanka,13438
-87,Zambia,13097
-88,Bosnia and Herzegovina,12253
-89,Myanmar,18024
-90,Uruguay,11812
-91,Lithuania,11306
-92,Sudan,11463
-93,Georgia,12179
-94,Paraguay,13097
-95,Libya,25693
-96,"Congo, Democratic Republic of the",8594
-97,Costa Rica,10065
-98,Ghana,8842
-99,Trinidad and Tobago,8246
-100,Guatemala,10570
-101,Estonia,8858
-102,Angola,10364
-103,Zimbabwe,7401
-104,Panama,9258
-105,Albania,4849
-106,Kenya,8722
-107,Bolivia,9057
-108,North Macedonia,7024
-109,Latvia,6877
-110,Ethiopia,8986
-111,Luxembourg,5817
-112,Cameroon,6743
-113,Ivory Coast,6686
-114,El Salvador,6212
-115,Mongolia,6933
-116,Honduras,6696
-117,West Bank,5496
-118,Yemen,2653
-119,Armenia,5791
-120,Tanzania,5813
-121,Afghanistan,6023
-122,Macau,5378
-123,Nicaragua,3738
-124,Moldova,5957
-125,Cambodia,8402
-126,Laos,4059
-127,Nepal,6562
-128,Cyprus,4524
-129,Brunei,3555
-130,Botswana,3301
-131,Namibia,4184
-132,Papua New Guinea,3777
-133,Senegal,3842
-134,Kosovo,5715
-135,Montenegro,2998
-136,Jamaica,3025
-137,Uganda,3534
-138,Mauritius,2800
-139,Gabon,2230
-140,Bhutan,2386
-141,New Caledonia,2741
-142,Malta,2456
-143,Suriname,1663
-144,Malawi,1515
-145,Bahamas,1770
-146,Guam,1639
-147,Swaziland,1682
-148,Mali,3040
-149,Liechtenstein,394
-150,Madagascar,2117
-151,Burkina Faso,1760
-152,Niger,1586
-153,Togo,1251
-154,Benin,1188
-155,Curacao,900.00
-156,"Congo, Republic of the",2018
-157,Guinea,1983
-158,Barbados,990
-159,Mauritania,882
-160,Lesotho,902
-161,Guyana,851
-162,Fiji,997
-163,Aruba,899
-164,French Polynesia,544
-165,South Sudan,529
-166,Jersey,600.00
-167,Bermuda,560
-168,Cayman Islands,629
-169,U.S. Virgin Islands,553
-170,Marshall Islands,562.40
-171,Andorra,500.00
-172,Rwanda,764
-173,Burundi,339
-174,Belize,568
-175,Djibouti,381
-176,Haiti,359
-177,Seychelles,403
-178,Somalia,323
-179,Saint Lucia,352
-180,Antigua and Barbuda,314
-181,Cabo Verde,455
-182,Eritrea,408
-183,Faroe Islands,316
-184,Gambia,291
-185,Greenland,496
-186,Liberia,348
-187,Maldives,565
-188,Northern Mariana Islands,200
-189,Chad,213
-190,Saint Kitts and Nevis,184
-191,Central African Republic,140
-192,Sierra Leone,242
-193,Turks and Caicos Islands,186
-194,Gibraltar,196
-195,Grenada,198
-196,"Micronesia, Federated States of","125
-"
-197,Timor-Leste,"100
-"
-198,British Virgin Islands,94
-199,Saint Vincent and the Grenadines,133
-200,American Samoa,152
-201,Samoa,124
-202,Equatorial Guinea,1321
+1,China,7500000.0
+2,United States,3989566.0
+3,India,1547000.0
+4,Russia,965156.0
+5,Japan,902842.0
+6,Brazil,597234.0
+7,Canada,549263.0
+8,"Korea, South",527035.0
+9,Germany,524268.0
+10,France,449422.0
+11,Saudi Arabia,322372.0
+12,United Kingdom,300520.0
+13,Italy,297150.0
+14,Mexico,267910.0
+15,Taiwan,237557.0
+16,Spain,241563.0
+17,Australia,241020.0
+18,Indonesia,263139.0
+19,Iran,254724.0
+20,Vietnam,216994.0
+21,South Africa,210304.0
+22,Turkey,251376.0
+23,Thailand,185852.0
+24,Egypt,150579.0
+25,Ukraine,128806.0
+26,Poland,152573.0
+27,Malaysia,147209.0
+28,Sweden,131798.0
+29,Norway,124127.0
+30,Argentina,125030.0
+31,Netherlands,110682.0
+32,United Arab Emirates,119455.0
+33,Philippines,93354.0
+34,Kazakhstan,91668.0
+35,Pakistan,90000.0
+36,Finland,84207.0
+37,Belgium,82051.0
+38,Venezuela,64660.0
+39,Austria,66849.0
+40,Chile,74992.0
+41,Czech Republic,63920.0
+42,Colombia,70203.0
+43,Israel,56391.0
+44,Switzerland,56353.0
+45,Bangladesh,70594.0
+46,Kuwait,59278.0
+47,Greece,53635.0
+48,Algeria,62062.0
+49,Romania,55008.0
+50,Uzbekistan,49204.0
+51,Singapore,47583.0
+52,Portugal,48035.0
+53,Hong Kong,44730.0
+54,Iraq,43971.0
+55,New Zealand,41165.0
+56,Hungary,41621.0
+57,Peru,47409.0
+58,Qatar,43375.0
+59,Belarus,32736.0
+60,Denmark,32703.0
+61,Bulgaria,33134.0
+62,Morocco,29678.0
+63,Slovakia,26237.0
+64,Serbia,30292.0
+65,Bahrain,27447.0
+66,Ireland,27203.0
+67,Oman,31766.0
+68,Nigeria,29011.0
+69,Ecuador,24605.0
+70,Azerbaijan,20286.0
+71,Puerto Rico,15466.0
+72,Iceland,18679.0
+73,Syria,14263.0
+74,Croatia,17475.0
+75,Jordan,17384.0
+76,Lebanon,17708.0
+77,Dominican Republic,16067.0
+78,Tunisia,15838.0
+79,Cuba,16341.0
+80,"Korea, North",12708.0
+81,Slovenia,14023.0
+82,Turkmenistan,15090.0
+83,Tajikistan,16085.0
+84,Mozambique,13390.0
+85,Kyrgyzstan,11740.0
+86,Sri Lanka,13438.0
+87,Zambia,13097.0
+88,Bosnia and Herzegovina,12253.0
+89,Myanmar,18024.0
+90,Uruguay,11812.0
+91,Lithuania,11306.0
+92,Sudan,11463.0
+93,Georgia,12179.0
+94,Paraguay,13097.0
+95,Libya,25693.0
+96,"Congo, Democratic Republic of the",8594.0
+97,Costa Rica,10065.0
+98,Ghana,8842.0
+99,Trinidad and Tobago,8246.0
+100,Guatemala,10570.0
+101,Estonia,8858.0
+102,Angola,10364.0
+103,Zimbabwe,7401.0
+104,Panama,9258.0
+105,Albania,4849.0
+106,Kenya,8722.0
+107,Bolivia,9057.0
+108,North Macedonia,7024.0
+109,Latvia,6877.0
+110,Ethiopia,8986.0
+111,Luxembourg,5817.0
+112,Cameroon,6743.0
+113,Ivory Coast,6686.0
+114,El Salvador,6212.0
+115,Mongolia,6933.0
+116,Honduras,6696.0
+117,West Bank,5496.0
+118,Yemen,2653.0
+119,Armenia,5791.0
+120,Tanzania,5813.0
+121,Afghanistan,6023.0
+122,Macau,5378.0
+123,Nicaragua,3738.0
+124,Moldova,5957.0
+125,Cambodia,8402.0
+126,Laos,4059.0
+127,Nepal,6562.0
+128,Cyprus,4524.0
+129,Brunei,3555.0
+130,Botswana,3301.0
+131,Namibia,4184.0
+132,Papua New Guinea,3777.0
+133,Senegal,3842.0
+134,Kosovo,5715.0
+135,Montenegro,2998.0
+136,Jamaica,3025.0
+137,Uganda,3534.0
+138,Mauritius,2800.0
+139,Gabon,2230.0
+140,Bhutan,2386.0
+141,New Caledonia,2741.0
+142,Malta,2456.0
+143,Suriname,1663.0
+144,Malawi,1515.0
+145,Bahamas,1770.0
+146,Guam,1639.0
+147,Swaziland,1682.0
+148,Mali,3040.0
+149,Liechtenstein,394.0
+150,Madagascar,2117.0
+151,Burkina Faso,1760.0
+152,Niger,1586.0
+153,Togo,1251.0
+154,Benin,1188.0
+155,Curacao,900.0
+156,"Congo, Republic of the",2018.0
+157,Guinea,1983.0
+158,Barbados,990.0
+159,Mauritania,882.0
+160,Lesotho,902.0
+161,Guyana,851.0
+162,Fiji,997.0
+163,Aruba,899.0
+164,French Polynesia,544.0
+165,South Sudan,529.0
+166,Jersey,600.0
+167,Bermuda,560.0
+168,Cayman Islands,629.0
+169,U.S. Virgin Islands,553.0
+170,Marshall Islands,562.4
+171,Andorra,500.0
+172,Rwanda,764.0
+173,Burundi,339.0
+174,Belize,568.0
+175,Djibouti,381.0
+176,Haiti,359.0
+177,Seychelles,403.0
+178,Somalia,323.0
+179,Saint Lucia,352.0
+180,Antigua and Barbuda,314.0
+181,Cabo Verde,455.0
+182,Eritrea,408.0
+183,Faroe Islands,316.0
+184,Gambia,291.0
+185,Greenland,496.0
+186,Liberia,348.0
+187,Maldives,565.0
+188,Northern Mariana Islands,200.0
+189,Chad,213.0
+190,Saint Kitts and Nevis,184.0
+191,Central African Republic,140.0
+192,Sierra Leone,242.0
+193,Turks and Caicos Islands,186.0
+194,Gibraltar,196.0
+195,Grenada,198.0
+196,"Micronesia, Federated States of",125.0
+197,Timor-Leste,100.0
+198,British Virgin Islands,94.0
+199,Saint Vincent and the Grenadines,133.0
+200,American Samoa,152.0
+201,Samoa,124.0
+202,Equatorial Guinea,1321.0
 203,Dominica,59.69
 204,Solomon Islands,98.26
 205,Sao Tome and Principe,80.91
@@ -218,4 +216,3 @@ Rank,Country,Total Consumption (GWh/yr)
 215,Falkland Islands,18.32
 216,"Saint Helena, Ascension and Tristan da Cunha",2.79
 217,Niue,7.44
-218,Gaza Strip,"202<sup class=""noprint Inline-Template"" style=""white-space:nowrap;"">&#91;<i><a href=""/wiki/Gaza_electricity_crisis"" title=""Gaza electricity crisis""><span title=""According to articles Gaza electricity crisis and Energy in Palestine the nominal power supply in Gaza is 9000 to 13000 higher than this figure. While this still likely overestimates actual energy consumption the CIA info is unrealistically low. (September 2019)"">contradictory</span></a></i>&#93;</sup>"

@@ -29,6 +29,11 @@ with open('output.csv', 'w', newline='') as file:
         countryItemTags = countryItem.split(">")
         countryTag = countryItemTags[len(countryItemTags) - 3]
         country = countryTag[:countryTag.find("</a")]
+        # remove new lines and quotation marks from country string
+        while (('\n') in country):
+            country.replace('\n', '')
+        countryArray = country.split('"')
+        country = "".join(countryArray)
         # isolate consumption in its element
         consumptionItem = items[3]
         consumption = consumptionItem[:consumptionItem.find("</td>")]
@@ -36,6 +41,7 @@ with open('output.csv', 'w', newline='') as file:
         consumptionClean = consumption.split(",")
         consumption = "".join(consumptionClean)
         # write to .csv file if country variable is not empty or whitespace
-        if (country and country.strip()):
+        if (country and country.strip() and count != len(rows)):
+            consumption = float(consumption)
             writer.writerow([count, country, consumption])
             count+=1
